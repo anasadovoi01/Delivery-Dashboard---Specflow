@@ -1,0 +1,16 @@
+﻿{
+  "$schema": "https://schemas.specsolutions.eu/specsync4azuredevops-config-latest.json",
+
+  "compatibilityVersion": "3.3",
+  "remote": {
+    "projectUrl": "https://amdaris.visualstudio.com/Amdaris%20%E2%80%93%20Delivery%20Dashboard/",
+    "testSuite": {
+      "name": "84162 - Edit Estimation Session"
+    }
+  },
+  "local": {
+    "sourceFiles": [
+      "SpecflowProject/Features/Edit_Estimation_Session.feature"
+    ]
+  }
+}
